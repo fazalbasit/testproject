@@ -1,16 +1,12 @@
 # testproject
 
-A new Flutter project.
+A Flutter movie ticket booking app.
 
-## Getting Started
+This is a test project and I have done this as tentwenty test.
 
-This project is a starting point for a Flutter application.
+the details for this project are follow:
 
-A few resources to get you started if this is your first Flutter project:
+- [Project Demonstration Video](https://drive.google.com/file/d/1O1hgBlLdCfKmBDAY_WMYuzDlUEhiSIRX/view?usp=sharing)
+- [App Complete Video](https://drive.google.com/file/d/12QZUx929wT_Nq0m0WTd8YyOn2NaBvOKK/view?usp=sharing)
+- [Apk File](https://drive.google.com/file/d/19BB3vbMsh3uhX7hbZlgIth6vjXsCQUF4/view?usp=sharing)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
