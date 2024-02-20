@@ -143,7 +143,7 @@ class _TheaterScreenState extends State<TheaterScreen> {
                               context,
                               MaterialPageRoute(
                                   builder: (context) => SeatSelectionScreen()));
-                        }, "Get Tickets"))
+                        }, "Get Tickets "))
                       ],
                     ),
                   ),

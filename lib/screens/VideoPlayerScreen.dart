@@ -62,7 +62,7 @@ class _FullScreenVideoPlayerState extends State<FullScreenVideoPlayer> {
                   onPressed: () {
                     _controller.toggleFullScreenMode();
                   },
-                  child: Text('Toggle Full Screen'),
+                  child: Text('Toggle Full Screen '),
                 ),
               ],
             );
