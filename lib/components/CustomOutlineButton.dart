@@ -24,7 +24,7 @@ OutlinedButton CustomBorderedButton(Function() function) {
           color: Colors.white,
         ),
         Text(
-          ' Watch Trailer',
+          ' Watch Trailer ',
           style: TextStyle(
               fontSize: 14, fontWeight: FontWeight.w600, color: Colors.white),
         ),

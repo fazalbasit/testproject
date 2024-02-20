@@ -84,7 +84,7 @@ class theaterCard extends StatelessWidget {
                     fontWeight: FontWeight.w500),
               ),
               Text(
-                "${list[currentIndex].costTo} bonus",
+                "${list[currentIndex].costTo} bonus ",
                 style: const TextStyle(fontWeight: FontWeight.w600),
               ),
             ],
